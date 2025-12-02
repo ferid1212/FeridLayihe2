@@ -93,6 +93,7 @@ btnAdd.addEventListener("click", () => {
 plus.addEventListener("click", () => {
     lbl.style.display = "block";
     xBtn.style.display = "none";
+    
 });
 
 
